@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JP Custom CSS v3.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-26 19:29:21+0000\n"
+"Last-Translator: Anas H. Sulaiman <ahs.pw>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: SAUDI ARABIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: custom-css/custom-css.php:479
+#@ jetpack
+msgid ""
+"Welcome to Custom CSS!\n"
+"\n"
+"CSS (Cascading Style Sheets) is a kind of code that tells the browser how to render a web page. You may delete these comments and get started with your customizations.\n"
+"\n"
+"By default, your stylesheet will be loaded after the theme stylesheets, which means that your rules can take precedence and override the theme CSS rules. Just write here what you want to change, you don't need to copy all your theme's stylesheet content."
+msgstr "أهلاً بك في Custom CSS. إن CSS (Cascading Style Sheets) نوع من الكود الذي يستخدمه المتصفح في عرض صفحات الإنترنت. يمكنك حذف هذه التعليقات والبدء بكتابة تعديلاتك. سيتم تحميل القواعد التي تكتبها هنا بعد تحميل القواعد الخاصة بالمظهر، أي أن القواعد التي تكتبها ستأخذ الأولوية على قواعد المظهر. اكتب تعديلات وحسب، ولا داعي لنسخ قواعد المظهر إلى هنا."
+
+#: custom-css/custom-css.php:599
+#@ jetpack
+msgid "Preview: changes must be saved or they will be lost"
+msgstr "معاينة: يجب حفظ التغييرات حتى لا تضيع"
+
+#: custom-css/custom-css.php:628
+#: custom-css.php:46
+#@ jetpack
+msgid "Edit CSS"
+msgstr "تعديل CSS"
+
+#: custom-css/custom-css.php:641
+#@ jetpack
+msgid "CSS"
+msgstr ""
+
+#: custom-css/custom-css.php:661
+#@ jetpack
+msgid "Custom CSS Stylesheet"
+msgstr "صفحة مظهر CSS مخصصة"
+
+#: custom-css/custom-css.php:682
+#@ jetpack
+msgid "Stylesheet saved."
+msgstr "تم حفظ صفحة المظهر."
+
+#: custom-css/custom-css.php:686
+#@ jetpack
+msgid "Publish"
+msgstr "نشر"
+
+#: custom-css/custom-css.php:692
+#@ jetpack
+msgid "CSS Revisions"
+msgstr "مراجعات CSS"
+
+#: custom-css/custom-css.php:696
+#@ jetpack
+msgid "CSS Stylesheet Editor"
+msgstr "محرر صفحة مظهر CSS"
+
+#: custom-css/custom-css.php:703
+#@ jetpack
+msgid ""
+"New to CSS? Start with a <a href=\"http://www.htmldog.com/guides/cssbeginner/\">beginner tutorial</a>. Questions?\n"
+"\t\tAsk in the <a href=\"http://wordpress.org/support/forum/themes-and-templates\">Themes and Templates forum</a>."
+msgstr "CSS جديدة عليك؟ ابدأ مع <a href=\"http://www.htmldog.com/guides/cssbeginner/\">دليل المبتدئين</a>. لديك أسئلة؟ اسأل في <a href=\"http://wordpress.org/support/forum/themes-and-templates\">منتدى المظاهر والقوالب</a>."
+
+#: custom-css/custom-css.php:741
+#@ jetpack
+msgid "Content Width:"
+msgstr "عرض المحتوى:"
+
+#: custom-css/custom-css.php:742
+#@ jetpack
+msgid "Default"
+msgstr "الافتراضي"
+
+#: custom-css/custom-css.php:742
+#, php-format
+#@ jetpack
+msgid "%s px"
+msgstr ""
+
+#: custom-css/custom-css.php:743
+#: custom-css/custom-css.php:838
+#: custom-css/custom-css.php:868
+#@ jetpack
+msgid "Edit"
+msgstr "تحرير"
+
+#: custom-css/custom-css.php:750
+#, php-format
+#@ jetpack
+msgid "Limit width to %1$s pixels for videos, full size images, and other shortcodes. (<a href=\"%2$s\">More info</a>.)"
+msgstr "حد العرض ب %1$s بكسل للفيديو، والصور ذات الحجم الكامل، والأكواد القصيرة الأخرى.  (<a href=\"%2$s\">مزيد من المعلومات</a>.)"
+
+#: custom-css/custom-css.php:766
+#, php-format
+#@ jetpack
+msgid "The default content width for the %s theme is %d pixels."
+msgstr "عرض المحتوى الافتراضي لمظهر %s هو %d بكسل."
+
+#: custom-css/custom-css.php:771
+#: custom-css/custom-css.php:853
+#: custom-css/custom-css.php:882
+#@ jetpack
+msgid "OK"
+msgstr "موافق"
+
+#: custom-css/custom-css.php:772
+#: custom-css/custom-css.php:854
+#: custom-css/custom-css.php:883
+#@ jetpack
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: custom-css/custom-css.php:836
+#@ jetpack
+msgid "Preprocessor:"
+msgstr "معالج أولي:"
+
+#: custom-css/custom-css.php:837
+#: custom-css/custom-css.php:842
+#@ jetpack
+msgid "None"
+msgstr "دون"
+
+#: custom-css/custom-css.php:866
+#@ jetpack
+msgid "Mode:"
+msgstr "الوضع:"
+
+#: custom-css/custom-css.php:867
+#@ jetpack
+msgid "Add-on"
+msgstr "إضافة"
+
+#: custom-css/custom-css.php:867
+#@ jetpack
+msgid "Replacement"
+msgstr "تبديل"
+
+#: custom-css/custom-css.php:874
+#@ jetpack
+msgid "Add-on CSS <b>(Recommended)</b>"
+msgstr "إضافة CSS <b>(مستحسن)</b>"
+
+#: custom-css/custom-css.php:879
+#, php-format
+#@ jetpack
+msgid "Replace <a href=\"%s\">theme's CSS</a> <b>(Advanced)</b>"
+msgstr "بدل <a href=\"%s\">CSS المظهر</a> <b>(متقدم)</b>"
+
+#: custom-css/custom-css.php:890
+#@ jetpack
+msgid "Preview"
+msgstr "معاينة"
+
+#: custom-css/custom-css.php:892
+#@ jetpack
+msgid "Save &amp; Buy Upgrade"
+msgstr "احفظ &amp; اشتر ترقية"
+
+#: custom-css/custom-css.php:892
+#@ jetpack
+msgid "Save Stylesheet"
+msgstr "حفظ صفحة المظهر"
+
+#: custom-css/custom-css.php:958
+#@ jetpack
+msgid "Show more"
+msgstr "إظهار المزيد"
+
+#. translators: plugin header field 'Name'
+#: custom-css.php:0
+#@ jetpack
+msgid "JP Custom CSS"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: custom-css.php:0
+#@ jetpack
+msgid "http://wordpress.org/plugins/jetpack-custom-css/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: custom-css.php:0
+#@ jetpack
+msgid "Customize your site’s CSS without modifying your theme."
+msgstr "عدل CSS موقعك دون تعديل المظهر."
+
+#. translators: plugin header field 'Author'
+#: custom-css.php:0
+#@ jetpack
+msgid "Anas H. Sulaiman"
+msgstr "أنس هشام سليمان"
+
+#. translators: plugin header field 'AuthorURI'
+#: custom-css.php:0
+#@ jetpack
+msgid "http://ahs.pw/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: custom-css.php:0
+#@ jetpack
+msgid "3.1.1"
+msgstr ""
+
