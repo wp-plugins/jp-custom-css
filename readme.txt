@@ -1,5 +1,5 @@
 === JP Custom CSS ===
-Contributors: ahspw
+Contributors: ahspw, wpjp
 Tags: css, jetpack, appearance, theme
 Requires at least: 3.5
 Tested up to: 4.0
