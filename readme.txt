@@ -1,9 +1,9 @@
 === JP Custom CSS ===
-Contributors: ahspw, wpjp
+Contributors: wpjp
 Tags: css, jetpack, appearance, theme
 Requires at least: 3.5
 Tested up to: 4.0
-Stable tag: 3.1.1
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,10 @@ Translations are not included in this plugin. Though, you can easily translate t
 * [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
 
 == Changelog ==
+
+= 3.2 =
+
+* Update to 3.2
 
 = 3.1.1 =
 
