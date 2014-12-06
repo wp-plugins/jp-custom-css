@@ -2,8 +2,8 @@
 Contributors: wpjp
 Tags: css, jetpack, appearance, theme
 Requires at least: 3.5
-Tested up to: 4.0
-Stable tag: 3.2
+Tested up to: 4.0.1
+Stable tag: 3.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,8 +13,9 @@ Customize your site’s CSS without modifying your theme.
 
 Just the [Custom CSS module](http://jetpack.me/support/custom-css/) from [Jetpack](http://wordpress.org/plugins/jetpack/).
 
-= Translations =
-Translations are not included in this plugin. Though, you can easily translate this plugin if you are interested enough.
+*No support* will be provided unless the issue cannot be reproduced using the original [Jetpack](http://wordpress.org/plugins/jetpack/) module.
+
+[Download Translations](https://downloads.wordpress.org/plugin/jp-custom-css.zip).
 
 = JP Family =
 
@@ -26,6 +27,10 @@ Translations are not included in this plugin. Though, you can easily translate t
 * [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
 
 == Changelog ==
+
+= 3.2.1 =
+
+* Update to 3.2.1
 
 = 3.2 =
 
