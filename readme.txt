@@ -1,9 +1,9 @@
 === JP Custom CSS ===
 Contributors: wpjp
-Tags: css, jetpack, appearance, theme, adopt-me
+Tags: css, jetpack, appearance, theme
 Requires at least: 3.5
 Tested up to: 4.2.2
-Stable tag: 3.5.3
+Stable tag: 3.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,9 +11,9 @@ Customize your site’s CSS without modifying your theme.
 
 == Description ==
 
->**Retiring on June 2015**
+>**Retired on June 2015**
 
->JP plugins will not be maintained after the end of June 2015.
+>JP plugins are no logner frequently maintained since the end of June 2015.
 >Thanks for everyone who used these plugins.
 >Speical thanks for those who gave good ratings.
 
@@ -31,6 +31,10 @@ Just the [Custom CSS module](http://jetpack.me/support/custom-css/) from [Jetpac
 * [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
 
 == Changelog ==
+
+= 3.6 =
+
+* Enhancement: Add more Flexbox support and other enhancements
 
 = 3.5.3 =
 
